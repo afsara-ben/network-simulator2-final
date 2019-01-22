@@ -1,0 +1,150 @@
+throughput: 662441.59077 delay: 0.60236 send packet: 733.00000 received packet: 566.00 drop packet: 684.00000 delivery ratio: 77.21692 drop ratio: 93.31514 time: 6.99207 total_energy: 598.06500 energy_per_bit: 0.00013 energy_per_byte: 0.00103 energy_per_packet: 1.05665 total_retransmit: 575.00000 
+energy_efficiency: 0.000129120 
+throughput: 641795.84083 delay: 0.49802 send packet: 700.00000 received packet: 552.00 drop packet: 562.00000 delivery ratio: 78.85714 drop ratio: 80.28571 time: 6.99537 total_energy: 604.72100 energy_per_bit: 0.00013 energy_per_byte: 0.00108 energy_per_packet: 1.09551 total_retransmit: 565.00000 
+energy_efficiency: 0.000134694 
+throughput: 633583.07429 delay: 0.43689 send packet: 677.00000 received packet: 543.00 drop packet: 470.00000 delivery ratio: 80.20679 drop ratio: 69.42393 time: 6.99185 total_energy: 604.90000 energy_per_bit: 0.00014 energy_per_byte: 0.00109 energy_per_packet: 1.11400 total_retransmit: 571.00000 
+energy_efficiency: 0.000136549 
+throughput: 629723.07333 delay: 0.58404 send packet: 694.00000 received packet: 541.00 drop packet: 502.00000 delivery ratio: 77.95389 drop ratio: 72.33429 time: 6.99507 total_energy: 593.42500 energy_per_bit: 0.00013 energy_per_byte: 0.00108 energy_per_packet: 1.09690 total_retransmit: 583.00000 
+energy_efficiency: 0.000134717 
+throughput: 597609.96536 delay: 0.57974 send packet: 683.00000 received packet: 512.00 drop packet: 618.00000 delivery ratio: 74.96340 drop ratio: 90.48316 time: 6.99908 total_energy: 600.20000 energy_per_bit: 0.00014 energy_per_byte: 0.00115 energy_per_packet: 1.17227 total_retransmit: 573.00000 
+energy_efficiency: 0.000143495 
+throughput: 627682.21226 delay: 0.38115 send packet: 651.00000 received packet: 541.00 drop packet: 440.00000 delivery ratio: 83.10292 drop ratio: 67.58833 time: 6.99335 total_energy: 596.77900 energy_per_bit: 0.00014 energy_per_byte: 0.00109 energy_per_packet: 1.10310 total_retransmit: 574.00000 
+energy_efficiency: 0.000135953 
+throughput: 588476.36906 delay: 0.49105 send packet: 633.00000 received packet: 510.00 drop packet: 597.00000 delivery ratio: 80.56872 drop ratio: 94.31280 time: 6.99841 total_energy: 602.34200 energy_per_bit: 0.00015 energy_per_byte: 0.00117 energy_per_packet: 1.18106 total_retransmit: 583.00000 
+energy_efficiency: 0.000146256 
+throughput: 625551.71856 delay: 0.54892 send packet: 684.00000 received packet: 533.00 drop packet: 563.00000 delivery ratio: 77.92398 drop ratio: 82.30994 time: 6.99670 total_energy: 611.66400 energy_per_bit: 0.00014 energy_per_byte: 0.00112 energy_per_packet: 1.14759 total_retransmit: 562.00000 
+energy_efficiency: 0.000139751 
+throughput: 661548.32141 delay: 0.48471 send packet: 706.00000 received packet: 563.00 drop packet: 386.00000 delivery ratio: 79.74504 drop ratio: 54.67422 time: 6.99958 total_energy: 601.06400 energy_per_bit: 0.00013 energy_per_byte: 0.00104 energy_per_packet: 1.06761 total_retransmit: 571.00000 
+energy_efficiency: 0.000129804 
+throughput: 598431.29321 delay: 0.41178 send packet: 637.00000 received packet: 514.00 drop packet: 452.00000 delivery ratio: 80.69074 drop ratio: 70.95761 time: 6.99215 total_energy: 599.95700 energy_per_bit: 0.00014 energy_per_byte: 0.00115 energy_per_packet: 1.16723 total_retransmit: 574.00000 
+energy_efficiency: 0.000143382 
+throughput: 650622.16366 delay: 0.55458 send packet: 711.00000 received packet: 560.00 drop packet: 531.00000 delivery ratio: 78.76231 drop ratio: 74.68354 time: 6.99269 total_energy: 597.73400 energy_per_bit: 0.00013 energy_per_byte: 0.00105 energy_per_packet: 1.06738 total_retransmit: 580.00000 
+energy_efficiency: 0.000131382 
+throughput: 629699.19156 delay: 0.48530 send packet: 696.00000 received packet: 538.00 drop packet: 322.00000 delivery ratio: 77.29885 drop ratio: 46.26437 time: 6.99178 total_energy: 596.42300 energy_per_bit: 0.00014 energy_per_byte: 0.00108 energy_per_packet: 1.10859 total_retransmit: 571.00000 
+energy_efficiency: 0.000135467 
+throughput: 637890.10790 delay: 0.41800 send packet: 634.00000 received packet: 547.00 drop packet: 572.00000 delivery ratio: 86.27760 drop ratio: 90.22082 time: 6.99832 total_energy: 609.94400 energy_per_bit: 0.00014 energy_per_byte: 0.00109 energy_per_packet: 1.11507 total_retransmit: 575.00000 
+energy_efficiency: 0.000136631 
+throughput: 650494.99130 delay: 0.46250 send packet: 684.00000 received packet: 555.00 drop packet: 492.00000 delivery ratio: 81.14035 drop ratio: 71.92982 time: 6.99061 total_energy: 600.33100 energy_per_bit: 0.00013 energy_per_byte: 0.00106 energy_per_packet: 1.08168 total_retransmit: 571.00000 
+energy_efficiency: 0.000132017 
+throughput: 649696.80855 delay: 0.53991 send packet: 694.00000 received packet: 552.00 drop packet: 554.00000 delivery ratio: 79.53890 drop ratio: 79.82709 time: 6.99625 total_energy: 606.24800 energy_per_bit: 0.00013 energy_per_byte: 0.00107 energy_per_packet: 1.09828 total_retransmit: 577.00000 
+energy_efficiency: 0.000133375 
+throughput: 657693.07027 delay: 0.55614 send packet: 703.00000 received packet: 561.00 drop packet: 529.00000 delivery ratio: 79.80085 drop ratio: 75.24893 time: 6.99147 total_energy: 603.45700 energy_per_bit: 0.00013 energy_per_byte: 0.00105 energy_per_packet: 1.07568 total_retransmit: 585.00000 
+energy_efficiency: 0.000131237 
+throughput: 599634.92472 delay: 0.43742 send packet: 663.00000 received packet: 518.00 drop packet: 417.00000 delivery ratio: 78.12971 drop ratio: 62.89593 time: 6.99439 total_energy: 607.43700 energy_per_bit: 0.00014 energy_per_byte: 0.00116 energy_per_packet: 1.17266 total_retransmit: 569.00000 
+energy_efficiency: 0.000144832 
+throughput: 633728.79078 delay: 0.38187 send packet: 645.00000 received packet: 549.00 drop packet: 357.00000 delivery ratio: 85.11628 drop ratio: 55.34884 time: 6.99580 total_energy: 606.19100 energy_per_bit: 0.00014 energy_per_byte: 0.00109 energy_per_packet: 1.10417 total_retransmit: 579.00000 
+energy_efficiency: 0.000136732 
+throughput: 625938.87553 delay: 0.53329 send packet: 671.00000 received packet: 537.00 drop packet: 496.00000 delivery ratio: 80.02981 drop ratio: 73.91952 time: 6.99672 total_energy: 600.79200 energy_per_bit: 0.00014 energy_per_byte: 0.00110 energy_per_packet: 1.11879 total_retransmit: 574.00000 
+energy_efficiency: 0.000137182 
+throughput: 624075.70228 delay: 0.46236 send packet: 633.00000 received packet: 542.00 drop packet: 414.00000 delivery ratio: 85.62401 drop ratio: 65.40284 time: 6.99633 total_energy: 598.79400 energy_per_bit: 0.00014 energy_per_byte: 0.00110 energy_per_packet: 1.10479 total_retransmit: 593.00000 
+energy_efficiency: 0.000137142 
+throughput: 641961.70392 delay: 0.54754 send packet: 729.00000 received packet: 551.00 drop packet: 433.00000 delivery ratio: 75.58299 drop ratio: 59.39643 time: 6.99331 total_energy: 605.20600 energy_per_bit: 0.00013 energy_per_byte: 0.00108 energy_per_packet: 1.09838 total_retransmit: 569.00000 
+energy_efficiency: 0.000134807 
+throughput: 646075.69529 delay: 0.54420 send packet: 679.00000 received packet: 551.00 drop packet: 475.00000 delivery ratio: 81.14875 drop ratio: 69.95582 time: 6.98618 total_energy: 602.78400 energy_per_bit: 0.00013 energy_per_byte: 0.00107 energy_per_packet: 1.09398 total_retransmit: 584.00000 
+energy_efficiency: 0.000133548 
+throughput: 635332.83465 delay: 0.40400 send packet: 677.00000 received packet: 546.00 drop packet: 482.00000 delivery ratio: 80.64993 drop ratio: 71.19645 time: 6.98695 total_energy: 599.60900 energy_per_bit: 0.00014 energy_per_byte: 0.00108 energy_per_packet: 1.09818 total_retransmit: 569.00000 
+energy_efficiency: 0.000135076 
+throughput: 654936.31275 delay: 0.71938 send packet: 722.00000 received packet: 565.00 drop packet: 378.00000 delivery ratio: 78.25485 drop ratio: 52.35457 time: 6.99989 total_energy: 607.21700 energy_per_bit: 0.00013 energy_per_byte: 0.00106 energy_per_packet: 1.07472 total_retransmit: 589.00000 
+energy_efficiency: 0.000132451 
+throughput: 644617.16290 delay: 0.46927 send packet: 671.00000 received packet: 549.00 drop packet: 555.00000 delivery ratio: 81.81818 drop ratio: 82.71237 time: 6.99975 total_energy: 608.85000 energy_per_bit: 0.00013 energy_per_byte: 0.00108 energy_per_packet: 1.10902 total_retransmit: 580.00000 
+energy_efficiency: 0.000134935 
+throughput: 657994.71814 delay: 0.63446 send packet: 732.00000 received packet: 570.00 drop packet: 550.00000 delivery ratio: 77.86885 drop ratio: 75.13661 time: 6.99531 total_energy: 603.39900 energy_per_bit: 0.00013 energy_per_byte: 0.00105 energy_per_packet: 1.05859 total_retransmit: 584.00000 
+energy_efficiency: 0.000131092 
+throughput: 638955.88295 delay: 0.64793 send packet: 721.00000 received packet: 552.00 drop packet: 486.00000 delivery ratio: 76.56033 drop ratio: 67.40638 time: 6.98965 total_energy: 607.76900 energy_per_bit: 0.00014 energy_per_byte: 0.00109 energy_per_packet: 1.10103 total_retransmit: 587.00000 
+energy_efficiency: 0.000136086 
+throughput: 660084.19664 delay: 0.68812 send packet: 721.00000 received packet: 569.00 drop packet: 639.00000 delivery ratio: 78.91817 drop ratio: 88.62691 time: 6.99741 total_energy: 608.52000 energy_per_bit: 0.00013 energy_per_byte: 0.00105 energy_per_packet: 1.06946 total_retransmit: 594.00000 
+energy_efficiency: 0.000131746 
+throughput: 645451.05821 delay: 0.51654 send packet: 645.00000 received packet: 559.00 drop packet: 621.00000 delivery ratio: 86.66667 drop ratio: 96.27907 time: 6.99938 total_energy: 614.02700 energy_per_bit: 0.00014 energy_per_byte: 0.00109 energy_per_packet: 1.09844 total_retransmit: 589.00000 
+energy_efficiency: 0.000135914 
+throughput: 639978.50645 delay: 0.55674 send packet: 706.00000 received packet: 546.00 drop packet: 465.00000 delivery ratio: 77.33711 drop ratio: 65.86402 time: 6.99799 total_energy: 596.22400 energy_per_bit: 0.00013 energy_per_byte: 0.00107 energy_per_packet: 1.09199 total_retransmit: 567.00000 
+energy_efficiency: 0.000133129 
+throughput: 635366.96140 delay: 0.42592 send packet: 675.00000 received packet: 540.00 drop packet: 479.00000 delivery ratio: 80.00000 drop ratio: 70.96296 time: 6.99464 total_energy: 607.68100 energy_per_bit: 0.00014 energy_per_byte: 0.00109 energy_per_packet: 1.12534 total_retransmit: 581.00000 
+energy_efficiency: 0.000136737 
+throughput: 629349.50448 delay: 0.51216 send packet: 653.00000 received packet: 540.00 drop packet: 414.00000 delivery ratio: 82.69525 drop ratio: 63.39969 time: 6.99796 total_energy: 609.46500 energy_per_bit: 0.00014 energy_per_byte: 0.00111 energy_per_packet: 1.12864 total_retransmit: 580.00000 
+energy_efficiency: 0.000138384 
+throughput: 647225.09639 delay: 0.67961 send packet: 718.00000 received packet: 553.00 drop packet: 521.00000 delivery ratio: 77.01950 drop ratio: 72.56267 time: 6.99923 total_energy: 604.92200 energy_per_bit: 0.00013 energy_per_byte: 0.00107 energy_per_packet: 1.09389 total_retransmit: 577.00000 
+energy_efficiency: 0.000133535 
+throughput: 660816.41164 delay: 0.49483 send packet: 682.00000 received packet: 567.00 drop packet: 523.00000 delivery ratio: 83.13783 drop ratio: 76.68622 time: 6.99813 total_energy: 603.93500 energy_per_bit: 0.00013 energy_per_byte: 0.00104 energy_per_packet: 1.06514 total_retransmit: 575.00000 
+energy_efficiency: 0.000130595 
+throughput: 644009.30068 delay: 0.56140 send packet: 693.00000 received packet: 551.00 drop packet: 606.00000 delivery ratio: 79.50938 drop ratio: 87.44589 time: 6.99543 total_energy: 602.77400 energy_per_bit: 0.00013 energy_per_byte: 0.00107 energy_per_packet: 1.09396 total_retransmit: 584.00000 
+energy_efficiency: 0.000133798 
+throughput: 605452.82434 delay: 0.55418 send packet: 673.00000 received packet: 524.00 drop packet: 506.00000 delivery ratio: 77.86033 drop ratio: 75.18574 time: 6.99747 total_energy: 600.65500 energy_per_bit: 0.00014 energy_per_byte: 0.00113 energy_per_packet: 1.14629 total_retransmit: 580.00000 
+energy_efficiency: 0.000141776 
+throughput: 648893.08014 delay: 0.56750 send packet: 704.00000 received packet: 554.00 drop packet: 502.00000 delivery ratio: 78.69318 drop ratio: 71.30682 time: 6.99456 total_energy: 593.57300 energy_per_bit: 0.00013 energy_per_byte: 0.00105 energy_per_packet: 1.07143 total_retransmit: 580.00000 
+energy_efficiency: 0.000130780 
+throughput: 653921.61046 delay: 0.55076 send packet: 680.00000 received packet: 562.00 drop packet: 721.00000 delivery ratio: 82.64706 drop ratio: 106.02941 time: 6.99558 total_energy: 597.28200 energy_per_bit: 0.00013 energy_per_byte: 0.00104 energy_per_packet: 1.06278 total_retransmit: 577.00000 
+energy_efficiency: 0.000130566 
+throughput: 656323.51666 delay: 0.41884 send packet: 694.00000 received packet: 561.00 drop packet: 603.00000 delivery ratio: 80.83573 drop ratio: 86.88761 time: 6.99411 total_energy: 604.99800 energy_per_bit: 0.00013 energy_per_byte: 0.00105 energy_per_packet: 1.07843 total_retransmit: 583.00000 
+energy_efficiency: 0.000131796 
+throughput: 627553.58939 delay: 0.53115 send packet: 705.00000 received packet: 540.00 drop packet: 500.00000 delivery ratio: 76.59574 drop ratio: 70.92199 time: 6.99325 total_energy: 611.10300 energy_per_bit: 0.00014 energy_per_byte: 0.00111 energy_per_packet: 1.13167 total_retransmit: 574.00000 
+energy_efficiency: 0.000139247 
+throughput: 616078.47671 delay: 0.65911 send packet: 684.00000 received packet: 531.00 drop packet: 521.00000 delivery ratio: 77.63158 drop ratio: 76.16959 time: 6.99937 total_energy: 591.32900 energy_per_bit: 0.00014 energy_per_byte: 0.00110 energy_per_packet: 1.11361 total_retransmit: 575.00000 
+energy_efficiency: 0.000137131 
+throughput: 665420.39833 delay: 0.61924 send packet: 731.00000 received packet: 568.00 drop packet: 494.00000 delivery ratio: 77.70178 drop ratio: 67.57866 time: 6.99828 total_energy: 595.85700 energy_per_bit: 0.00013 energy_per_byte: 0.00102 energy_per_packet: 1.04904 total_retransmit: 574.00000 
+energy_efficiency: 0.000127954 
+throughput: 610013.63863 delay: 0.32751 send packet: 642.00000 received packet: 523.00 drop packet: 503.00000 delivery ratio: 81.46417 drop ratio: 78.34891 time: 6.98397 total_energy: 599.28400 energy_per_bit: 0.00014 energy_per_byte: 0.00113 energy_per_packet: 1.14586 total_retransmit: 575.00000 
+energy_efficiency: 0.000140666 
+throughput: 627203.54144 delay: 0.39095 send packet: 687.00000 received packet: 539.00 drop packet: 409.00000 delivery ratio: 78.45706 drop ratio: 59.53421 time: 6.99562 total_energy: 602.14000 energy_per_bit: 0.00014 energy_per_byte: 0.00110 energy_per_packet: 1.11714 total_retransmit: 579.00000 
+energy_efficiency: 0.000137234 
+throughput: 596870.87173 delay: 0.55204 send packet: 680.00000 received packet: 516.00 drop packet: 515.00000 delivery ratio: 75.88235 drop ratio: 75.73529 time: 6.99702 total_energy: 607.14100 energy_per_bit: 0.00015 energy_per_byte: 0.00116 energy_per_packet: 1.17663 total_retransmit: 570.00000 
+energy_efficiency: 0.000145377 
+throughput: 667022.04773 delay: 0.54845 send packet: 738.00000 received packet: 566.00 drop packet: 474.00000 delivery ratio: 76.69377 drop ratio: 64.22764 time: 6.99203 total_energy: 601.69900 energy_per_bit: 0.00013 energy_per_byte: 0.00103 energy_per_packet: 1.06307 total_retransmit: 580.00000 
+energy_efficiency: 0.000129014 
+throughput: 631698.27651 delay: 0.51094 send packet: 686.00000 received packet: 546.00 drop packet: 532.00000 delivery ratio: 79.59184 drop ratio: 77.55102 time: 6.98992 total_energy: 608.36600 energy_per_bit: 0.00014 energy_per_byte: 0.00110 energy_per_packet: 1.11422 total_retransmit: 580.00000 
+energy_efficiency: 0.000137779 
+throughput: 638667.60570 delay: 0.44551 send packet: 668.00000 received packet: 542.00 drop packet: 542.00000 delivery ratio: 81.13772 drop ratio: 81.13772 time: 6.99732 total_energy: 602.51200 energy_per_bit: 0.00013 energy_per_byte: 0.00108 energy_per_packet: 1.11165 total_retransmit: 573.00000 
+energy_efficiency: 0.000134822 
+throughput: 640868.40538 delay: 0.62543 send packet: 752.00000 received packet: 552.00 drop packet: 364.00000 delivery ratio: 73.40426 drop ratio: 48.40426 time: 6.99301 total_energy: 605.65500 energy_per_bit: 0.00014 energy_per_byte: 0.00108 energy_per_packet: 1.09720 total_retransmit: 577.00000 
+energy_efficiency: 0.000135143 
+throughput: 603673.96614 delay: 0.37147 send packet: 601.00000 received packet: 515.00 drop packet: 484.00000 delivery ratio: 85.69052 drop ratio: 80.53245 time: 6.99768 total_energy: 602.45700 energy_per_bit: 0.00014 energy_per_byte: 0.00114 energy_per_packet: 1.16982 total_retransmit: 575.00000 
+energy_efficiency: 0.000142616 
+throughput: 647669.91791 delay: 0.44886 send packet: 695.00000 received packet: 558.00 drop packet: 386.00000 delivery ratio: 80.28777 drop ratio: 55.53957 time: 6.99838 total_energy: 606.13900 energy_per_bit: 0.00013 energy_per_byte: 0.00107 energy_per_packet: 1.08627 total_retransmit: 579.00000 
+energy_efficiency: 0.000133728 
+throughput: 632655.48160 delay: 0.48854 send packet: 687.00000 received packet: 541.00 drop packet: 387.00000 delivery ratio: 78.74818 drop ratio: 56.33188 time: 6.99958 total_energy: 604.18200 energy_per_bit: 0.00014 energy_per_byte: 0.00109 energy_per_packet: 1.11679 total_retransmit: 572.00000 
+energy_efficiency: 0.000136436 
+throughput: 663338.92412 delay: 0.47544 send packet: 688.00000 received packet: 565.00 drop packet: 512.00000 delivery ratio: 82.12209 drop ratio: 74.41860 time: 6.99564 total_energy: 599.91800 energy_per_bit: 0.00013 energy_per_byte: 0.00103 energy_per_packet: 1.06180 total_retransmit: 583.00000 
+energy_efficiency: 0.000129279 
+throughput: 646260.58465 delay: 0.44542 send packet: 716.00000 received packet: 555.00 drop packet: 459.00000 delivery ratio: 77.51397 drop ratio: 64.10615 time: 6.99903 total_energy: 608.89200 energy_per_bit: 0.00013 energy_per_byte: 0.00108 energy_per_packet: 1.09710 total_retransmit: 580.00000 
+energy_efficiency: 0.000134615 
+throughput: 664579.78575 delay: 0.68678 send packet: 755.00000 received packet: 568.00 drop packet: 448.00000 delivery ratio: 75.23179 drop ratio: 59.33775 time: 6.99534 total_energy: 603.07100 energy_per_bit: 0.00013 energy_per_byte: 0.00104 energy_per_packet: 1.06174 total_retransmit: 573.00000 
+energy_efficiency: 0.000129722 
+throughput: 599651.79589 delay: 0.61622 send packet: 650.00000 received packet: 509.00 drop packet: 460.00000 delivery ratio: 78.30769 drop ratio: 70.76923 time: 6.99980 total_energy: 605.09000 energy_per_bit: 0.00014 energy_per_byte: 0.00115 energy_per_packet: 1.18878 total_retransmit: 564.00000 
+energy_efficiency: 0.000144157 
+throughput: 580236.78872 delay: 0.43149 send packet: 652.00000 received packet: 499.00 drop packet: 375.00000 delivery ratio: 76.53374 drop ratio: 57.51534 time: 6.99135 total_energy: 604.76000 energy_per_bit: 0.00015 energy_per_byte: 0.00119 energy_per_packet: 1.21194 total_retransmit: 566.00000 
+energy_efficiency: 0.000149079 
+throughput: 604858.81537 delay: 0.59937 send packet: 662.00000 received packet: 522.00 drop packet: 459.00000 delivery ratio: 78.85196 drop ratio: 69.33535 time: 6.99112 total_energy: 602.99600 energy_per_bit: 0.00014 energy_per_byte: 0.00114 energy_per_packet: 1.15516 total_retransmit: 581.00000 
+energy_efficiency: 0.000142598 
+throughput: 654129.59596 delay: 0.62774 send packet: 744.00000 received packet: 562.00 drop packet: 540.00000 delivery ratio: 75.53763 drop ratio: 72.58065 time: 6.99384 total_energy: 606.79400 energy_per_bit: 0.00013 energy_per_byte: 0.00106 energy_per_packet: 1.07970 total_retransmit: 578.00000 
+energy_efficiency: 0.000132636 
+throughput: 647424.01722 delay: 0.52202 send packet: 693.00000 received packet: 552.00 drop packet: 484.00000 delivery ratio: 79.65368 drop ratio: 69.84127 time: 6.99659 total_energy: 606.85100 energy_per_bit: 0.00013 energy_per_byte: 0.00107 energy_per_packet: 1.09937 total_retransmit: 576.00000 
+energy_efficiency: 0.000133970 
+throughput: 650481.82906 delay: 0.49492 send packet: 735.00000 received packet: 561.00 drop packet: 452.00000 delivery ratio: 76.32653 drop ratio: 61.49660 time: 6.99592 total_energy: 605.79300 energy_per_bit: 0.00013 energy_per_byte: 0.00106 energy_per_packet: 1.07984 total_retransmit: 581.00000 
+energy_efficiency: 0.000133120 
+throughput: 631083.98001 delay: 0.49980 send packet: 689.00000 received packet: 543.00 drop packet: 459.00000 delivery ratio: 78.80987 drop ratio: 66.61829 time: 6.99368 total_energy: 604.09400 energy_per_bit: 0.00014 energy_per_byte: 0.00109 energy_per_packet: 1.11251 total_retransmit: 572.00000 
+energy_efficiency: 0.000136871 
+throughput: 608172.03288 delay: 0.51186 send packet: 650.00000 received packet: 523.00 drop packet: 685.00000 delivery ratio: 80.46154 drop ratio: 105.38462 time: 6.99250 total_energy: 606.59700 energy_per_bit: 0.00014 energy_per_byte: 0.00114 energy_per_packet: 1.15984 total_retransmit: 584.00000 
+energy_efficiency: 0.000142640 
+throughput: 668153.49453 delay: 0.48763 send packet: 733.00000 received packet: 564.00 drop packet: 484.00000 delivery ratio: 76.94407 drop ratio: 66.03001 time: 6.99097 total_energy: 597.55800 energy_per_bit: 0.00013 energy_per_byte: 0.00102 energy_per_packet: 1.05950 total_retransmit: 574.00000 
+energy_efficiency: 0.000127928 
+throughput: 634939.10248 delay: 0.43176 send packet: 634.00000 received packet: 546.00 drop packet: 573.00000 delivery ratio: 86.11987 drop ratio: 90.37855 time: 6.99179 total_energy: 598.62600 energy_per_bit: 0.00013 energy_per_byte: 0.00108 energy_per_packet: 1.09638 total_retransmit: 584.00000 
+energy_efficiency: 0.000134845 
+throughput: 600557.03196 delay: 0.71560 send packet: 663.00000 received packet: 521.00 drop packet: 499.00000 delivery ratio: 78.58220 drop ratio: 75.26395 time: 6.99963 total_energy: 602.19700 energy_per_bit: 0.00014 energy_per_byte: 0.00115 energy_per_packet: 1.15585 total_retransmit: 585.00000 
+energy_efficiency: 0.000143255 
+throughput: 612232.35268 delay: 0.63206 send packet: 738.00000 received packet: 525.00 drop packet: 480.00000 delivery ratio: 71.13821 drop ratio: 65.04065 time: 6.99891 total_energy: 609.13700 energy_per_bit: 0.00014 energy_per_byte: 0.00114 energy_per_packet: 1.16026 total_retransmit: 571.00000 
+energy_efficiency: 0.000142157 
+throughput: 632013.41385 delay: 0.73990 send packet: 675.00000 received packet: 547.00 drop packet: 497.00000 delivery ratio: 81.03704 drop ratio: 73.62963 time: 6.99985 total_energy: 594.54400 energy_per_bit: 0.00013 energy_per_byte: 0.00108 energy_per_packet: 1.08692 total_retransmit: 589.00000 
+energy_efficiency: 0.000134391 
+throughput: 665285.52061 delay: 0.54510 send packet: 718.00000 received packet: 566.00 drop packet: 562.00000 delivery ratio: 78.83008 drop ratio: 78.27298 time: 6.99874 total_energy: 606.94100 energy_per_bit: 0.00013 energy_per_byte: 0.00104 energy_per_packet: 1.07233 total_retransmit: 586.00000 
+energy_efficiency: 0.000130352 
+throughput: 619312.68329 delay: 0.55019 send packet: 648.00000 received packet: 537.00 drop packet: 420.00000 delivery ratio: 82.87037 drop ratio: 64.81481 time: 6.98116 total_energy: 607.93200 energy_per_bit: 0.00014 energy_per_byte: 0.00112 energy_per_packet: 1.13209 total_retransmit: 580.00000 
+energy_efficiency: 0.000140610 
+throughput: 645422.19940 delay: 0.56783 send packet: 686.00000 received packet: 549.00 drop packet: 462.00000 delivery ratio: 80.02915 drop ratio: 67.34694 time: 6.99077 total_energy: 599.97100 energy_per_bit: 0.00013 energy_per_byte: 0.00106 energy_per_packet: 1.09284 total_retransmit: 578.00000 
+energy_efficiency: 0.000132972 
+throughput: 617618.58700 delay: 0.37989 send packet: 661.00000 received packet: 530.00 drop packet: 276.00000 delivery ratio: 80.18154 drop ratio: 41.75492 time: 6.99487 total_energy: 599.83900 energy_per_bit: 0.00014 energy_per_byte: 0.00111 energy_per_packet: 1.13177 total_retransmit: 564.00000 
+energy_efficiency: 0.000138846 
+throughput: 666162.55004 delay: 0.58387 send packet: 712.00000 received packet: 568.00 drop packet: 487.00000 delivery ratio: 79.77528 drop ratio: 68.39888 time: 6.99073 total_energy: 590.67100 energy_per_bit: 0.00013 energy_per_byte: 0.00101 energy_per_packet: 1.03991 total_retransmit: 574.00000 
+energy_efficiency: 0.000126836 
+throughput: 629619.70118 delay: 0.55562 send packet: 652.00000 received packet: 541.00 drop packet: 458.00000 delivery ratio: 82.97546 drop ratio: 70.24540 time: 6.99597 total_energy: 602.40100 energy_per_bit: 0.00014 energy_per_byte: 0.00109 energy_per_packet: 1.11350 total_retransmit: 568.00000 
+energy_efficiency: 0.000136760 
+throughput: 603151.91226 delay: 0.67899 send packet: 697.00000 received packet: 523.00 drop packet: 281.00000 delivery ratio: 75.03587 drop ratio: 40.31564 time: 6.99684 total_energy: 611.19000 energy_per_bit: 0.00014 energy_per_byte: 0.00116 energy_per_packet: 1.16862 total_retransmit: 576.00000 
+energy_efficiency: 0.000144826 

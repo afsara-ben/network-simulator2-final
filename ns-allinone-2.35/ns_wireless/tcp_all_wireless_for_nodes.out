@@ -1,0 +1,30 @@
+throughput: 678953.57729 delay: 0.29604 send packet: 622.00000 received packet: 563.00 drop packet: 53.00000 delivery ratio: 90.51447 drop ratio: 8.52090 time: 6.99665 total_energy: 297.17200 energy_per_bit: 0.00006 energy_per_byte: 0.00050 energy_per_packet: 0.52784 total_retransmit: 566.00000 
+energy_efficiency: 0.000062557 
+Total time:  					6.99665 
+
+Total energy consumption:     297.17200 Average Energy per bit:       .00006 Average Energy per byte:      .00050 Average energy per packet:    .52784 total_retransmit:         		566.00000 
+energy_efficiency: 				.000062557 
+throughput: 648447.90671 delay: 0.51221 send packet: 681.00000 received packet: 541.00 drop packet: 306.00000 delivery ratio: 79.44200 drop ratio: 44.93392 time: 6.98875 total_energy: 603.34900 energy_per_bit: 0.00013 energy_per_byte: 0.00107 energy_per_packet: 1.11525 total_retransmit: 557.00000 
+energy_efficiency: 0.000133136 
+Total time:  					6.98875 
+
+Total energy consumption:     603.34900 Average Energy per bit:       .00013 Average Energy per byte:      .00107 Average energy per packet:    1.11525 total_retransmit:         		557.00000 
+energy_efficiency: 				.000133136 
+throughput: 560485.09449 delay: 0.30517 send packet: 539.00000 received packet: 468.00 drop packet: 1408.00000 delivery ratio: 86.82746 drop ratio: 261.22449 time: 6.99623 total_energy: 900.82000 energy_per_bit: 0.00023 energy_per_byte: 0.00184 energy_per_packet: 1.92483 total_retransmit: 558.00000 
+energy_efficiency: 0.000229726 
+Total time:  					6.99623 
+
+Total energy consumption:     900.82000 Average Energy per bit:       .00023 Average Energy per byte:      .00184 Average energy per packet:    1.92483 total_retransmit:         		558.00000 
+energy_efficiency: 				.000229726 
+throughput: 646281.84158 delay: 0.39942 send packet: 640.00000 received packet: 540.00 drop packet: 2846.00000 delivery ratio: 84.37500 drop ratio: 444.68750 time: 6.99905 total_energy: 1149.80900 energy_per_bit: 0.00025 energy_per_byte: 0.00203 energy_per_packet: 2.12928 total_retransmit: 541.00000 
+energy_efficiency: 0.000254194 
+Total time:  					6.99905 
+
+Total energy consumption:     1149.80900 Average Energy per bit:       .00025 Average Energy per byte:      .00203 Average energy per packet:    2.12928 total_retransmit:         		541.00000 
+energy_efficiency: 				.000254194 
+throughput: 606190.62914 delay: 0.33055 send packet: 557.00000 received packet: 506.00 drop packet: 5191.00000 delivery ratio: 90.84381 drop ratio: 931.95691 time: 6.99978 total_energy: 1486.00200 energy_per_bit: 0.00035 energy_per_byte: 0.00280 energy_per_packet: 2.93676 total_retransmit: 541.00000 
+energy_efficiency: 0.000350208 
+Total time:  					6.99978 
+
+Total energy consumption:     1486.00200 Average Energy per bit:       .00035 Average Energy per byte:      .00280 Average energy per packet:    2.93676 total_retransmit:         		541.00000 
+energy_efficiency: 				.000350208 
