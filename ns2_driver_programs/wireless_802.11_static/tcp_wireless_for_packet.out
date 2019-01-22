@@ -1,0 +1,65 @@
+
+
+nodes: 4  10  Throughput:          				624581.16227 
+AverageDelay:         			.69262 
+Sent Packets:         			695.93326 
+Received Packets:         		531.93329 
+Dropped Packets:         			451.39996 
+PacketDeliveryRatio:      		76.56498 
+PacketDropRatio:      			64.97194 
+Total time:  						6.99476 
+
+Total energy consumption:        	600.92156 Average Energy per bit:         	.00004 Average Energy per byte:         	.00103 Average energy per packet:        1.13365 total_retransmit:         			573.59995 
+energy_efficiency: 				.000138042 
+
+
+nodes: 4  10  Throughput:          				634747.39698 
+AverageDelay:         			.70746 
+Sent Packets:         			710.13328 
+Received Packets:         		540.19996 
+Dropped Packets:         			473.79995 
+PacketDeliveryRatio:      		76.22158 
+PacketDropRatio:      			66.95372 
+Total time:  						6.99227 
+
+Total energy consumption:        	601.70662 Average Energy per bit:         	.00002 Average Energy per byte:         	.00099 Average energy per packet:        1.11635 total_retransmit:         			578.73329 
+energy_efficiency: 				.000135895 
+
+
+nodes: 4  10  Throughput:          				648349.81238 
+AverageDelay:         			.65281 
+Sent Packets:         			710.46662 
+Received Packets:         		551.26662 
+Dropped Packets:         			490.79994 
+PacketDeliveryRatio:      		77.74423 
+PacketDropRatio:      			69.28537 
+Total time:  						6.99328 
+
+Total energy consumption:        	604.10804 Average Energy per bit:         	.00001 Average Energy per byte:         	.00098 Average energy per packet:        1.09742 total_retransmit:         			577.66662 
+energy_efficiency: 				.000133463 
+
+
+nodes: 4  10  Throughput:          				642208.20691 
+AverageDelay:         			.68664 
+Sent Packets:         			727.19993 
+Received Packets:         		546.99997 
+Dropped Packets:         			513.26661 
+PacketDeliveryRatio:      		75.35472 
+PacketDropRatio:      			70.88630 
+Total time:  						6.99152 
+
+Total energy consumption:        	599.95009 Average Energy per bit:         	.00001 Average Energy per byte:         	.00098 Average energy per packet:        1.09882 total_retransmit:         			575.79997 
+energy_efficiency: 				.000133859 
+
+
+nodes: 4  10  Throughput:          				632705.46784 
+AverageDelay:         			.67780 
+Sent Packets:         			734.33328 
+Received Packets:         		538.66662 
+Dropped Packets:         			456.13328 
+PacketDeliveryRatio:      		73.45036 
+PacketDropRatio:      			62.09152 
+Total time:  						6.99502 
+
+Total energy consumption:        	602.97987 Average Energy per bit:         	.00001 Average Energy per byte:         	.00103 Average energy per packet:        1.12118 total_retransmit:         			569.46663 
+energy_efficiency: 				.000136468 

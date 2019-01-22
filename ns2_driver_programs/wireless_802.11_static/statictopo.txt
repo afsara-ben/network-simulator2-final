@@ -1,0 +1,70 @@
+0 x: 25 y: 62 
+1 x: 75 y: 62 
+2 x: 125 y: 62 
+3 x: 175 y: 62 
+4 x: 225 y: 62 
+5 x: 275 y: 62 
+6 x: 325 y: 62 
+7 x: 375 y: 62 
+8 x: 425 y: 62 
+9 x: 475 y: 62 
+10 x: 25 y: 187 
+11 x: 75 y: 187 
+12 x: 125 y: 187 
+13 x: 175 y: 187 
+14 x: 225 y: 187 
+15 x: 275 y: 187 
+16 x: 325 y: 187 
+17 x: 375 y: 187 
+18 x: 425 y: 187 
+19 x: 475 y: 187 
+20 x: 25 y: 312 
+21 x: 75 y: 312 
+22 x: 125 y: 312 
+23 x: 175 y: 312 
+24 x: 225 y: 312 
+25 x: 275 y: 312 
+26 x: 325 y: 312 
+27 x: 375 y: 312 
+28 x: 425 y: 312 
+29 x: 475 y: 312 
+30 x: 25 y: 437 
+31 x: 75 y: 437 
+32 x: 125 y: 437 
+33 x: 175 y: 437 
+34 x: 225 y: 437 
+35 x: 275 y: 437 
+36 x: 325 y: 437 
+37 x: 375 y: 437 
+38 x: 425 y: 437 
+39 x: 475 y: 437 
+Flow source = 15 and destination = 11
+Flow source = 8 and destination = 12
+Flow source = 0 and destination = 5
+Flow source = 38 and destination = 4
+Flow source = 5 and destination = 1
+Flow source = 32 and destination = 31
+Flow source = 35 and destination = 17
+Flow source = 3 and destination = 23
+Flow source = 16 and destination = 35
+Flow source = 25 and destination = 17
+Flow source = 15 and destination = 13
+Flow source = 16 and destination = 27
+Flow source = 27 and destination = 4
+Flow source = 31 and destination = 8
+Flow source = 7 and destination = 22
+Flow source = 1 and destination = 18
+Flow source = 28 and destination = 34
+Flow source = 36 and destination = 30
+Flow source = 16 and destination = 21
+Flow source = 18 and destination = 8
+Flow source = 27 and destination = 28
+Flow source = 21 and destination = 28
+Flow source = 29 and destination = 28
+Flow source = 0 and destination = 38
+Flow source = 33 and destination = 26
+Flow source = 24 and destination = 25
+Flow source = 11 and destination = 25
+Flow source = 38 and destination = 35
+Flow source = 14 and destination = 16
+Flow source = 0 and destination = 26

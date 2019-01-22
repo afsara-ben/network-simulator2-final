@@ -1,0 +1,55 @@
+
+
+nodes: 2  10  Throughput:          		5669545.68278 
+AverageDelay:        		.06420 
+Sent Packets:         	1089.53329 
+Received Packets:         1021.99995 
+Dropped Packets:          4.26663 
+PacketDeliveryRatio:      93.63072 
+PacketDropRatio:      	.42409 
+Total time:  				1.49970 
+
+
+
+nodes: 4  10  Throughput:          		3304153.61203 
+AverageDelay:        		.08305 
+Sent Packets:         	667.13330 
+Received Packets:         595.59997 
+Dropped Packets:          .20000 
+PacketDeliveryRatio:      87.91455 
+PacketDropRatio:      	.02272 
+Total time:  				1.49970 
+
+
+
+nodes: 6  10  Throughput:          		2246303.67118 
+AverageDelay:        		.08836 
+Sent Packets:         	463.33330 
+Received Packets:         404.93327 
+Dropped Packets:          0 
+PacketDeliveryRatio:      85.12787 
+PacketDropRatio:      	0 
+Total time:  				1.49977 
+
+
+
+nodes: 8  10  Throughput:          		2037401.70451 
+AverageDelay:        		.08609 
+Sent Packets:         	407.66660 
+Received Packets:         367.26662 
+Dropped Packets:          0 
+PacketDeliveryRatio:      87.83596 
+PacketDropRatio:      	0 
+Total time:  				1.49971 
+
+
+
+nodes: 10  10  Throughput:          		1762069.25952 
+AverageDelay:        		.08066 
+Sent Packets:         	345.13329 
+Received Packets:         317.59995 
+Dropped Packets:          0 
+PacketDeliveryRatio:      91.16258 
+PacketDropRatio:      	0 
+Total time:  				1.49948 
+
